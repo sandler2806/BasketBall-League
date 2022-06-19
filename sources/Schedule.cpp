@@ -11,7 +11,7 @@ void Schedule::reorder() {
         numbers[19]=first;
     }
 }
-void Schedule::season(){
+void Schedule::gamesPeriod(){
     cycle();
     cycle();
 }

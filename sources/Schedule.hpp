@@ -10,6 +10,6 @@ class Schedule
     void  reorder();
 public:
     Schedule(Team ** pTeam);
-    void season();
+    void gamesPeriod();
 
 };

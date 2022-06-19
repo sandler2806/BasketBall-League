@@ -8,8 +8,8 @@ class League{
     Schedule * schedule;
 public:
     League();
-    void startPlay();
-    void print();
+    void gamesSession();
+    void printTable();
     void statusTable();
     void bestTeams(int size);
     void bestWinStreak();
